@@ -1,141 +1,107 @@
 {
   "broadArea": {
-    "name": "Computer Science and Engineering",
-    "link": "http://vlab.co.in/broad-area-computer-science-and-engineering",
-    "code": "CSE"
+    "name": "Civil Engineering",
+    "link": "https://www.vlab.co.in/broad-area-civil-engineering",
+    "code": "CIVIL"
   },
-  "lab": "Data Structures – 1",
-  "lab_display_name": "Data Structures – 1",
+  "lab": "Geotechnical Engineering",
+  "lab_display_name": "Geotechnical Engineering",
   "phase": 3,
-  "collegeName": "IIITH",
-  "baseUrl": "ds1-iiith.vlabs.ac.in",
-  "introduction": "Welcome to the Data Structures Lab - I developed at IIIT Hyderabad. Data Structures (also called Data Structures and Algorithms in some places) is a core course in all computer science undergraduate curricula. The course is the basis for understanding several data structures and also algorithms that operate on them. The course forms the foundation for almost all computer science subjects: compilers, operating systems, databases, AI and software engineering. The course comes with a lab in most universities in India. The associated lab in university curricula focuses on implementation of algorithms operating on the data structures, i.e., coding programs on the data structures and algorithms. Students embarking on the task of writing programs, however, often have difficulty visualizing how operations and algorithms modify a data structure. As a result students are often unable to understand or show the execution of an algorithm on a given data structure and write code effectively. Furthermore, students are unable to visually reason about the time and space complexities associated with an algorithm running on a data structure. The interactive experiments in this lab will give the students an opportunity for learning and better understanding of using algorithms.",
-  "experiment-sections": [
+  "collegeName": "NITK",
+  "baseUrl": "gte-nitk.vlabs.ac.in",
+  "introduction": "A Geotechnical Engineering virtual lab is a digital platform that allows students to conduct experiments related to Geotechnical Engineering concepts in a visual and comprehensive manner. It is a self-paced learning tool that helps students to understand fundamental concepts and prepare for physical experiments in a safe and controlled environment.",
+  "experiments": [
     {
-      "sect-name": "Sorting",
-      "experiments": [
-        {
-          "name": "Bubble Sort",
-          "short-name": "bubble-sort",
-          "repo": "https://github.com/virtual-labs/exp-bubble-sort-iiith.git",
-          "tag": "v1.0.9",
-          "deploy": true
-        },
-        {
-          "name": "Merge Sort",
-          "short-name": "merge-sort",
-          "repo": "https://github.com/virtual-labs/exp-merge-sort-iiith.git",
-          "tag": "v1.0.8",
-          "deploy": true
-        },
-        {
-          "name": "Heap Sort",
-          "short-name": "heap-sort",
-          "repo": "https://github.com/virtual-labs/exp-heap-sort-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        },
-        {
-          "name": "Quick Sort",
-          "short-name": "quick-sort",
-          "repo": "https://github.com/virtual-labs/exp-quick-sort-iiith",
-          "tag": "v1.0.8",
-          "deploy": true
-        }
-      ]
+      "name": "Determination of particle size distribution(finer than 75 micron) using density Hydrometer",
+      "short-name": "particle-size-distribution",
+      "repo": "https://github.com/virtual-labs/exp-particle-size-distribution-nitk",
+      "tag": "v0.0.0",
+      "deploy": true
     },
     {
-      "sect-name": "Graphs",
-      "experiments": [
-        {
-          "name": "Depth First Search",
-          "short-name": "depth-first-search",
-          "repo": "https://github.com/virtual-labs/exp-dfs-iiith",
-          "tag": "v1.0.9",
-          "deploy": true
-        },
-        {
-          "name": "Breadth First Search",
-          "short-name": "breadth-first-search",
-          "repo": "https://github.com/virtual-labs/exp-bfs-iiith/",
-          "tag": "v1.0.7",
-          "deploy": true
-        }
-      ]
+      "name": "Determination of dry density by Sand Replacement method",
+      "short-name": "sand-replacement-method",
+      "repo": "https://github.com/virtual-labs/exp-sand-replacement-method-nitk",
+      "tag": "v0.0.0",
+      "deploy": true
     },
     {
-      "sect-name": "Trees",
-      "experiments": [
-        {
-          "name": "Tree Traversal",
-          "short-name": "tree-traversal",
-          "repo": "https://github.com/virtual-labs/exp-tree-traversal-iiith/",
-          "tag": "v1.0.7",
-          "deploy": true
-        },
-        {
-          "name": "Binary Search Trees",
-          "short-name": "binary-search-trees",
-          "repo": "https://github.com/virtual-labs/exp-bst-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        }
-      ]
+      "name": "Determination of Insitu density by Core cutter method",
+      "short-name": "core-cutter-method",
+      "repo": "https://github.com/virtual-labs/exp-core-cutter-method-nitk",
+      "tag": "v0.0.0",
+      "deploy": true
     },
     {
-      "sect-name": "Searching",
-      "experiments": [
-        {
-          "name": "Unsorted Arrays",
-          "short-name": "unsorted-arrays",
-          "repo": "https://github.com/virtual-labs/exp-unsorted-arrays-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        },
-        {
-          "name": "Hashtables",
-          "short-name": "hash-tables",
-          "repo": "https://github.com/virtual-labs/exp-hashtables-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        }
-      ]
+      "name": "Determination of Liquid limit and Plastic limit for cohesive soils",
+      "short-name": "liquid-plastic-limit",
+      "repo": "https://github.com/virtual-labs/exp-liquid-plastic-limit-nitk",
+      "tag": "v0.0.0",
+      "deploy": true
     },
     {
-      "sect-name": "Linked Lists",
-      "experiments": [
-        {
-          "name": "Linked lists",
-          "short-name": "linked-list",
-          "repo": "https://github.com/virtual-labs/exp-linked-lists-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        },
-        {
-          "name": "Polynomial Arithmetic using linked lists",
-          "short-name": "poly-arithmetic",
-          "repo": "https://github.com/virtual-labs/exp-polynomial-arithmetic-iiith",
-          "tag": "v1.0.6",
-          "deploy": true
-        }
-      ]
+      "name": "Determination of Shrinkage limit for cohesive soils",
+      "short-name": "shrinkage-limit",
+      "repo": "https://github.com/virtual-labs/exp-shrinkage-limit-nitk",
+      "tag": "v0.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Determination of MDD & OMC by Standard Proctor test",
+      "short-name": "standard-proctor-test",
+      "repo": "https://github.com/virtual-labs/exp-standard-proctor-test-nitk",
+      "tag": "v0.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Determination of Coefficient of Consolidation by Oedometer test",
+      "short-name": "oedometer-test",
+      "repo": "https://github.com/virtual-labs/exp-oedometer-test-nitk",
+      "tag": "v0.0.0",
+      "deploy": true
+    },
+    {
+      "name": " Determination of Uniaxial Compression Strength of soil by unconfined compression test",
+      "short-name": "unconfined-compression-test",
+      "repo": "https://github.com/virtual-labs/exp-unconfined-compression-test-nitk",
+      "tag": "v0.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Determination of undrained shear strength of soil by Vane Shear test",
+      "short-name": "vane-shear-test",
+      "repo": "https://github.com/virtual-labs/exp-vane-shear-test-nitk",
+      "tag": "v0.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Determination of Coefficient of Permeability of Soil by Constant Head Permeability test",
+      "short-name": "constant-head-permeability",
+      "repo": "https://github.com/virtual-labs/exp-constant-head-permeability-test-nitk",
+      "tag": "v0.0.0",
+      "deploy": true
     }
   ],
   "targetAudience": {
-    "UG": [
-      " Data Structures & Algorithms for 1st & 2nd year B. Tech./ B.E in Computer Science & Information Technology <br/>- B.Sc / B.S in Computer Science "
-    ],
-    "PG": [
-      "Computer Science, Information Technology, Compilers, Operating systems, Databases, AI and Software engineering. <br/> - Ph. D. Beginners"
-    ]
+    "UG": ["BE / B. Tech in Civil Engineering / Geological Engineering"],
+    "PG": ["MTech / MS in Geotechnical engineering or Foundation engineering or Soil Mechanics"]
   },
-  "objective": "The Virtual Lab for Data Structures will focus on creating an environment where the student interactively explores data structures. The role of this Virtual Labs is to complement the lectures and reading material and the programming lab in three ways : 1. Present visual animations of data structures 2. Allow students to interactively execute algorithms in these data structures. 3. Allow students to interactively compute the cost of using these data structures with different algorithms.",
+  "objective": "The Geotechnical Engineering virtual lab aims to provide students with a comprehensive and visual platform to conduct experiments and gain a better understanding of fundamental concepts. It is not intended to replace physical lab experiments but to supplement them. The virtual lab offers a controlled environment that minimizes risks and optimizes resources. Overall, it is an effective pedagogical tool that equips students with the necessary skills to conduct physical experiments confidently and proficiently.",
   "courseAlignment": {
-    "description": "The syllabi of this lab aligns to the following universities in India.",
+    "description": "",
     "universities": [
-      "Osmania University Data Structures Lab",
-      "JNTU Data Structures Lab"
+    "Applied soil Engineering - National Institute of Technology Karnataka, Surathkal",
+    "Basic Geotechnical Engineering - Visvesvaraya Technological University",
+    "Geotechnical Engineering Laboratory - Visvesvaraya Technological University",
+    "Foundation Engineering - Anna University",
+    "Soil Mechanics Laboratory - Anna University",
+    "Geotechnical Engineering - I - Goa University",
+    "Geotechnical Engineering - II - Goa University",
+    "Soil Mechanics and Foundation Engineering - Vellore Institute of Technology",
+    "Advanced Soil Mechanics - Vellore Institute of Technology",
+    "Soil Mechanics and Engineering Geology - IIT Roorkee",
+    "Foundation Engineering - IIT Roorkee"
     ]
-
- 
+  }
+  
 }
