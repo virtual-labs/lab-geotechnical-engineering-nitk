@@ -15,70 +15,70 @@
       "name": "Determination of particle size distribution(finer than 75 micron) using density Hydrometer",
       "short-name": "particle-size-distribution",
       "repo": "https://github.com/virtual-labs/exp-particle-size-distribution-nitk",
-      "tag": "v0.0.0",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Determination of dry density by Sand Replacement method",
       "short-name": "sand-replacement-method",
       "repo": "https://github.com/virtual-labs/exp-sand-replacement-method-nitk",
-      "tag": "v0.0.0",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Determination of Insitu density by Core cutter method",
       "short-name": "core-cutter-method",
       "repo": "https://github.com/virtual-labs/exp-core-cutter-method-nitk",
-      "tag": "v0.0.0",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Determination of Liquid limit and Plastic limit for cohesive soils",
       "short-name": "liquid-plastic-limit",
       "repo": "https://github.com/virtual-labs/exp-liquid-plastic-limit-nitk",
-      "tag": "v0.0.0",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Determination of Shrinkage limit for cohesive soils",
       "short-name": "shrinkage-limit",
       "repo": "https://github.com/virtual-labs/exp-shrinkage-limit-nitk",
-      "tag": "v0.0.0",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Determination of MDD & OMC by Standard Proctor test",
       "short-name": "standard-proctor-test",
       "repo": "https://github.com/virtual-labs/exp-standard-proctor-test-nitk",
-      "tag": "v0.0.0",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Determination of Coefficient of Consolidation by Oedometer test",
       "short-name": "oedometer-test",
       "repo": "https://github.com/virtual-labs/exp-oedometer-test-nitk",
-      "tag": "v0.0.0",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": " Determination of Uniaxial Compression Strength of soil by unconfined compression test",
       "short-name": "unconfined-compression-test",
       "repo": "https://github.com/virtual-labs/exp-unconfined-compression-test-nitk",
-      "tag": "v0.0.0",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Determination of undrained shear strength of soil by Vane Shear test",
       "short-name": "vane-shear-test",
       "repo": "https://github.com/virtual-labs/exp-vane-shear-test-nitk",
-      "tag": "v0.0.0",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Determination of Coefficient of Permeability of Soil by Constant Head Permeability test",
       "short-name": "constant-head-permeability",
       "repo": "https://github.com/virtual-labs/exp-constant-head-permeability-test-nitk",
-      "tag": "v0.0.0",
+      "tag": "v1.0.0",
       "deploy": true
     }
   ],
