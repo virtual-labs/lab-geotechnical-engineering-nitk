@@ -6,7 +6,7 @@
   },
   "lab": "Geotechnical Engineering",
   "lab_display_name": "Geotechnical Engineering",
-  "phase": 3,
+  "phase": "3-ext",
   "collegeName": "NITK",
   "baseUrl": "gte-nitk.vlabs.ac.in",
   "introduction": "A Geotechnical Engineering virtual lab is a digital platform that allows students to conduct experiments related to Geotechnical Engineering concepts in a visual and comprehensive manner. It is a self-paced learning tool that helps students to understand fundamental concepts and prepare for physical experiments in a safe and controlled environment.",
